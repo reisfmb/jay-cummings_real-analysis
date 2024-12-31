@@ -31,8 +31,11 @@ Extras:
 
 ## Chapter 6
 Notable exercises:
+- [Exercise 6.24](/6/6.24)
+- [Exercise 6.25](/6/6.25)
 - [Exercise 6.30](/6/6.30)
 - [Exercise 6.31](/6/6.31)
+- [Exercise 6.33](/6/6.33)
 - [Exercise 6.35](/6/6.35)
 - [Exercise 6.46](/6/6.46)
 - [Exercise 6.48](/6/6.48)
